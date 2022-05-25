@@ -1,0 +1,11 @@
+{
+  "version": "3.0.0.0",
+  "update": {
+    "version": "3.0.0",
+    "message": "1、优化播放体验"
+  },
+  "hometitle_color" : "255,255,255",
+  "limited": "1",
+  "homebg": "https://dailyintention.github.io/spa/assets/spa_bg.png",
+  "vipbg": "https://www.thesapphiresalonpittston.com/wp-content/uploads/2017/01/sapphire-spa-bg.jpg?w=640"
+}
